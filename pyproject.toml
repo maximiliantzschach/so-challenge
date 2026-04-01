@@ -1,0 +1,1 @@
+[project]\nname = 'so-challenge'\nversion = '0.1.0'\ndescription = 'A Python project for data collection, visualization, and milestone tracking.'\nauthors = ['Your Name <your.email@example.com>']\n\n[tool.pytest.ini_options]\ntestpaths = ['tests']\n\n[project.dependencies]\npytest = '*'\n
